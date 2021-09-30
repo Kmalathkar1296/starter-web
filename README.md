@@ -12,4 +12,8 @@ This is sample introduction to merging and diff tool
 
 ## Target
 
-This is taget audience for this course
+This is taget audience for this course.
+
+## Feedback
+
+How is the course? Pls provide feedback
