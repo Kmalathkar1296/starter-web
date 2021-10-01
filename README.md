@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. This is rebase example.. changes making in master branch.
-This is changes made after rebase in feature branch.
+This is new changes for stash
 ## Purpose
 
 Sample website with plenty of files for demos
