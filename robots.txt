@@ -1,3 +1,5 @@
 # robotstxt.org/
 
+
+Hi robot its multi stash example
 User-agent: *
